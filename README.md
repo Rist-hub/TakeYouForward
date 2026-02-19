@@ -67,8 +67,8 @@ This repository contains my solutions to the **Take You Forward (Striver) DSA Sh
 
 ## 🏆 Problem Solving Philosophy
 
-> “Don’t count the days. Make the days count.”  
-> — DSA Mode Activated ⚔️
+“Don’t count the days. Make the days count.”  
+ — DSA Mode Activated ⚔️
 
 ✔ Solve  
 ✔ Understand  
