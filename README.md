@@ -40,8 +40,8 @@ This repository contains my solutions to the **Take You Forward (Striver) DSA Sh
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rist-hub&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rist-hub&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://raw.githubusercontent.com/Rist-hub/TakeYouForward/output/github-stats.svg" height="165"/>
+  <img src="https://raw.githubusercontent.com/Rist-hub/TakeYouForward/output/top-langs.svg" height="165"/>
 </p>
 
 
