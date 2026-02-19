@@ -1,2 +1,91 @@
-# TakeYouForward
-Repository to solve TakeYouForward problems
+<h1 align="center">🔥 Striver DSA Sheet – Progress Tracker 🔥</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Consistency+>+Motivation;DSA+Grind+Mode+ON;Solving+Take+You+Forward+Sheet;Building+Strong+Foundations+🚀" />
+</p>
+
+---
+
+## 📌 About This Repository
+
+This repository contains my solutions to the **Take You Forward (Striver) DSA Sheet** problems.
+
+🎯 Goal:
+- Master Data Structures & Algorithms
+- Crack top tech interviews
+- Build strong problem-solving intuition
+
+---
+
+## 📊 Progress Overview
+
+| Topic | Status |
+|-------|--------|
+| Arrays | 🟢 In Progress |
+| Strings | 🟢 In Progress |
+| Linked List | 🔜 Coming Soon |
+| Stack & Queue | 🔜 Coming Soon |
+| Trees | 🔒 Locked |
+| Graphs | 🔒 Locked |
+| DP | 💀 Final Boss |
+
+---
+
+## 🧠 Languages Used
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rist-hub&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rist-hub&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rist-hub&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rist-hub/Rist-hub/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Problem Solving Philosophy
+
+> “Don’t count the days. Make the days count.”  
+> — DSA Mode Activated ⚔️
+
+✔ Solve  
+✔ Understand  
+✔ Optimize  
+✔ Revise  
+
+Repeat.
+
+---
+
+## ⭐ If You Like This Repo
+
+Give it a ⭐ and start your own DSA grind!
+
+---
+
+### 👨‍💻 Author
+
+**Rishabh Sharma**  
+Backend Developer | DSA Learner | Consistency Believer
+
