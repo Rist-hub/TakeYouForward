@@ -57,7 +57,7 @@ This repository contains my solutions to the **Take You Forward (Striver) DSA Sh
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rist-hub/Rist-hub/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rist-hub/TakeYouForward/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
