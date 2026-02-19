@@ -1,0 +1,23 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Stats
+        run: |
+          curl -o github-stats.svg https://github-readme-stats.vercel.app/api?username=Rist-hub\&show_icons=true\&theme=tokyonight
+          curl -o top-langs.svg https://github-readme-stats.vercel.app/api/top-langs/?username=Rist-hub\&layout=compact\&theme=tokyonight
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
