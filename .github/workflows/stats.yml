@@ -12,8 +12,8 @@ jobs:
      
       - name: Generate GitHub Stats
         run: |
-          curl -H "User-Agent: Mozilla/5.0" \"https://github-readme-stats.vercel.app/api?username=Rist-hub&show_icons=true&theme=tokyonight" \-o github-stats.svg
-          curl -H "User-Agent: Mozilla/5.0" \"https://github-readme-stats.vercel.app/api/top-langs/?username=Rist-hub&layout=compact&theme=tokyonight" \-o top-langs.svg
+          curl -H "User-Agent: Mozilla/5.0" "https://github-readme-stats.vercel.app/api?username=Rist-hub&show_icons=true&theme=tokyonight" -o github-stats.svg
+          curl -H "User-Agent: Mozilla/5.0" "https://github-readme-stats.vercel.app/api/top-langs/?username=Rist-hub&layout=compact&theme=tokyonight" -o top-langs.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
