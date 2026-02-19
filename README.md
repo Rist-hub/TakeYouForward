@@ -32,10 +32,8 @@ This repository contains my solutions to the **Take You Forward (Striver) DSA Sh
 ---
 
 ## 🧠 Languages Used
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 ---
 
