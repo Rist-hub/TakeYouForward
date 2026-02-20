@@ -41,7 +41,6 @@ This repository contains my solutions to the **Take You Forward (Striver) DSA Sh
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rist-hub/TakeYouForward/output/github-stats.svg" height="165"/>
-  <img src="https://raw.githubusercontent.com/Rist-hub/TakeYouForward/output/top-langs.svg" height="165"/>
 </p>
 
 
