@@ -35,16 +35,6 @@ This repository contains my solutions to the **Take You Forward (Striver) DSA Sh
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rist-hub/TakeYouForward/output/github-stats.svg" height="165"/>
-</p>
-
-
-
 
 ---
 
