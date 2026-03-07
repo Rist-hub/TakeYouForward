@@ -9,7 +9,7 @@ public class AstrikPattern4{
             for(int j=n-1; j>i; j--){
                 System.out.print(" ");
             }
-            for(int k=0; k<i+i-1; k++){
+            for(int k=0; k<i+i+1; k++){
                 System.out.print("*");
             }
             System.out.println();
