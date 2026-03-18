@@ -1,26 +1,25 @@
-
 import java.util.Scanner;
+
+/*
+
+*        *
+**      **
+***    ***
+****  ****
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+*/
 
 public class AstrikPattern9{
     public static void main(String[] args){
-        /*
 
-        **********
-        ****  ****
-        ***    ***
-        **      **
-        *        *
-        *        *
-        **      **
-        ***    ***
-        ****  ****
-        **********
-
-        */
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
-        String astrik = "";
         for(int row=0; row<n-1; row++){
             for(int i=0; i<row+1; i++){
                 System.out.print("*");
