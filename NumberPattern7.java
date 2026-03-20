@@ -16,6 +16,7 @@ public class NumberPattern7{
                     System.out.print(store-1);
                 }else{
                     countDown(store, row);
+                    System.out.println();
                 }
             }
             System.out.println();
