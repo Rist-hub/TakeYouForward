@@ -3,9 +3,12 @@ public class MaxConsecutiveOnes{
         int max = 0, count = 0;
         for(int i=0; i<nums.length; i++){
             int j = 0;
-            while((nums[i+j])!=0){
+            while(((nums[i+j])!=0)){
                 count++;
                 j++;
+                if((i+j)==nums.length){
+                    break;
+                }
             }
             if(max<count){
                 max = count;
@@ -17,7 +20,7 @@ public class MaxConsecutiveOnes{
     }
 
     public static void main(String[] args){
-        int[] arr = {0,0,1,1,0,0,0,1,0,0,1,1,1,1,0};
+        int[] arr = {0,0,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1};
         int max = count(arr);
         System.out.println(max);
     }
