@@ -34,6 +34,7 @@ public class LongestSubarraySum{
         for(int i=0; i<nums.length; i++){
             for(int j=0; j<i; j++){
                 subArrays[i][j] = nums[j]; 
+                System.out.print(subArrays[i][j]+", ");
             }
         }
     }
