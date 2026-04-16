@@ -29,7 +29,7 @@ public class LongestSubarraySum{
         System.out.println(maxSub);
     }
 
-    public static void generateSub(int[] nums){
+    public static void generateSub(int[] nums){ //method to generate sub arrays
         int[][] subArrays = new int[nums.length][nums.length];
         for(int i=0; i<nums.length; i++){
             for(int j=0; j<i; j++){
